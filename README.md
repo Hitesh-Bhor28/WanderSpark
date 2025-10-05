@@ -2,6 +2,20 @@
 
 Welcome to WanderSpark, your AI-powered travel companion designed to make trip planning seamless, intelligent, and fun. Built with a modern tech stack, WanderSpark helps you craft the perfect itinerary, pack smartly, and manage your budget, all in one place.
 
+## 🖼️ Project Images  
+
+### 🧭 Dashboard  
+![Dashboard](./assets/1.png)
+
+### 🧳 Smart Packing Checklist  
+![Smart Packing Checklist](./assets/2.png)
+
+### 💰 Budget Tracker  
+![Budget Tracker](./assets/3.png)
+
+### 📸 Photo Album  
+![Photo Album](./assets/4.png)
+
 ## Core Features
 
 WanderSpark is packed with features to assist you at every stage of your travel planning:
