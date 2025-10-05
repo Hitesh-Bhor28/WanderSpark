@@ -4,8 +4,8 @@ Welcome to WanderSpark, your AI-powered travel companion designed to make trip p
 
 ## 🖼️ Project Images  
 
-### 🧭 Dashboard  
-![Dashboard]([./assets/1.png](https://media.licdn.com/dms/image/v2/D4E22AQH5UCsIhhR4Rg/feedshare-shrink_2048_1536/B4EZgsTe._GcAo-/0/1753089962679?e=1762387200&v=beta&t=fhXWIPJ4tJWPb0E1KaGYQQ-gnleOwbJ3ZAcamCGfjLA))
+### 🧭 Dashboard
+![Dashboard](https://media.licdn.com/dms/image/v2/D4E22AQH5UCsIhhR4Rg/feedshare-shrink_2048_1536/B4EZgsTe._GcAo-/0/1753089962679?e=1762387200&v=beta&t=fhXWIPJ4tJWPb0E1KaGYQQ-gnleOwbJ3ZAcamCGfjLA)
 
 ### 🧳 Smart Packing Checklist  
 ![Smart Packing Checklist](./assets/2.png)
