@@ -8,13 +8,13 @@ Welcome to WanderSpark, your AI-powered travel companion designed to make trip p
 ![Dashboard](https://media.licdn.com/dms/image/v2/D4E22AQH5UCsIhhR4Rg/feedshare-shrink_2048_1536/B4EZgsTe._GcAo-/0/1753089962679?e=1762387200&v=beta&t=fhXWIPJ4tJWPb0E1KaGYQQ-gnleOwbJ3ZAcamCGfjLA)
 
 ### 🧳 Smart Packing Checklist  
-![Smart Packing Checklist](./assets/2.png)
+![Smart Packing Checklist](https://media.licdn.com/dms/image/v2/D4E22AQH5-XOyS5LmZA/feedshare-shrink_2048_1536/B4EZgsTe.dH8As-/0/1753089962505?e=1762387200&v=beta&t=U39QAZSa1S4V75usSIBdJ9Sv8M2DvRiRo8OSRfx3Y7Q)
 
 ### 💰 Budget Tracker  
-![Budget Tracker](./assets/3.png)
+![Budget Tracker](https://media.licdn.com/dms/image/v2/D4E22AQEPUtnCUBkhWw/feedshare-shrink_2048_1536/B4EZgsTe_UHoAo-/0/1753089962616?e=1762387200&v=beta&t=r_wvW0LK1yPWSUjobXyjHuDjgC1LT_51z2juA2k74xQ)
 
 ### 📸 Photo Album  
-![Photo Album](./assets/4.png)
+![Photo Album](https://media.licdn.com/dms/image/v2/D4E22AQHrxDCOj50w1g/feedshare-shrink_2048_1536/B4EZgsTfAFGUAs-/0/1753089962634?e=1762387200&v=beta&t=V5QIMyl1SgK-ue5_q94olrighGhkqYTDW1zxl70a6Co)
 
 ## Core Features
 
